@@ -108,14 +108,21 @@
             "date": "2026-05-13",
             "description": "ruiching pi sdk bsp 1.8.0",
             "size": "34.0 MB"
-        }
-        ,
+        },
         {
 
             "url": "https://github.com/RT-Thread-Studio/sdk-bsp-rk3506-realthread-ruichingpi/archive/refs/tags/1.8.1.zip",
             "version": "1.8.1",
             "date": "2026-06-05",
             "description": "ruiching pi sdk bsp 1.8.1",
+            "size": "34.1 MB"
+        },
+        {
+
+            "url": "https://github.com/RT-Thread-Studio/sdk-bsp-rk3506-realthread-ruichingpi/archive/refs/tags/1.8.2.zip",
+            "version": "1.8.2",
+            "date": "2026-07-02",
+            "description": "ruiching pi sdk bsp 1.8.2",
             "size": "34.1 MB"
         }
     ]
